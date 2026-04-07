@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 ## Hey, I'm Neil 👋
 
-> Senior Frontend Engineer based in Australia.
+> Senior Software Engineer based in Australia.
+> 
 > I build, prototype, and scale web apps — mostly with React, TypeScript, and a healthy obsession with good DX.
 
 ---
