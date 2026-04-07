@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **nkpgardose/nkpgardose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hey, I'm Neil 👋
+
+> Senior Frontend Engineer based in Australia.
+> I build, prototype, and scale web apps — mostly with React, TypeScript, and a healthy obsession with good DX.
+
+---
+
+🔭 **Currently building:** [Nice Budget](https://nice-budget.com/) — A pet project of mine. A guided, zero-fuss budgeting  
+🌱 **Currently learning:** Rust, and forever deepening my TypeScript & JavaScript knowledge  
+🎲 **For fun:** [Simple browser games](https://neil.onl/flames/)  
+🌐 **Website:** [neil.onl](https://neil.onl/)  
+📫 **Reach me:** [neil.onl](https://neil.onl/)
+
+
