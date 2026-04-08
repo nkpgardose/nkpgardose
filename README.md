@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ---
 
-🔭 **Currently building:** [Nice Budget](https://nice-budget.com/) — A pet project of mine. A guided, zero-fuss budgeting  
+🔭 **Currently building:** [Nice Budget](https://nice-budget.com/) — A pet project of mine. A guided, simple and **_nice_** budgeting  
 🌱 **Currently learning:** Forever deepening my TypeScript & JavaScript knowledge  
 🎲 **For fun:** [Flames](https://neil.onl/flames/), [Old shooting game i made 10 years ago](https://neil.onl/HLS/)
 
